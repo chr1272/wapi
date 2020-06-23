@@ -1,0 +1,16 @@
+﻿body {
+    max-width:800px;
+    background-color:darkgray;
+}
+
+.link1 {
+    position:absolute;
+    top:400px;
+    left:400px;
+    width:200px;
+    height:150px;
+    padding:4px;
+    background-color:lightgray;
+    border-radius:5px;
+}
+

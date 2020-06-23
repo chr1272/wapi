@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wapi", "wapi\wapi.csproj", "{965E49AB-0142-498E-802D-372E49E8D6B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WapiDsataAccess", "WapiDsataAccess\WapiDsataAccess.csproj", "{C5CBDC63-7D1C-4FE6-AA8A-B195FDBDC286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965E49AB-0142-498E-802D-372E49E8D6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965E49AB-0142-498E-802D-372E49E8D6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965E49AB-0142-498E-802D-372E49E8D6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965E49AB-0142-498E-802D-372E49E8D6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CBDC63-7D1C-4FE6-AA8A-B195FDBDC286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CBDC63-7D1C-4FE6-AA8A-B195FDBDC286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CBDC63-7D1C-4FE6-AA8A-B195FDBDC286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CBDC63-7D1C-4FE6-AA8A-B195FDBDC286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF94428-6517-449B-B9BD-47FC0CBEAD0B}
+	EndGlobalSection
+EndGlobal
